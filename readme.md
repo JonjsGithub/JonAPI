@@ -1,7 +1,8 @@
 # JonAPI
 
 **当前版本: 1.0**
-**API-G GITHUB 节点**
+
+**api-g :: GITHUB 节点**
 
 
 ## 访问方式
