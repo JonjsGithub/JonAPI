@@ -1,8 +1,6 @@
 # JonAPI
 
-**当前版本: 1.0**
-
-**api-g :: GITHUB 节点**
+![api-version](https://img.shields.io/github/v/release/JonjsGithub/JonAPI.svg?style=for-the-badge&logo=appveyor)
 
 
 ## 访问方式
