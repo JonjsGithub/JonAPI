@@ -1,6 +1,6 @@
 # JonAPI
 
-![api-version](https://img.shields.io/github/v/release/JonjsGithub/JonAPI.svg?style=for-the-badge&logo=appveyor)
+![api-version](https://img.shields.io/github/v/release/JonjsGithub/JonAPI.svg?style=for-the-badge&label=API 版本&logo=appveyor)
 
 
 ## 访问方式
